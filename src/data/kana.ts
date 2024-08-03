@@ -19,6 +19,8 @@ export const dakuonHandakuon = [
     { kana: "だ", romaji: ["da"] }, { kana: "ぢ", romaji: ["ji", "di"] }, { kana: "づ", romaji: ["zu", "du"] }, { kana: "で", romaji: ["de"] }, { kana: "ど", romaji: ["do"] },
     { kana: "ば", romaji: ["ba"] }, { kana: "び", romaji: ["bi"] }, { kana: "ぶ", romaji: ["bu"] }, { kana: "べ", romaji: ["be"] }, { kana: "ぼ", romaji: ["bo"] },
     { kana: "ぱ", romaji: ["pa"] }, { kana: "ぴ", romaji: ["pi"] }, { kana: "ぷ", romaji: ["pu"] }, { kana: "ぺ", romaji: ["pe"] }, { kana: "ぽ", romaji: ["po"] },
+    { kana: "ぁ", romaji: ["la"] }, { kana: "ぃ", romaji: ["li"] }, { kana: "ぅ", romaji: ["lu"] }, { kana: "ぇ", romaji: ["le"] }, { kana: "ぉ", romaji: ["lo"] },
+    { kana: "ゃ", romaji: ["lya"] }, { kana: "ゅ", romaji: ["lyu"] }, { kana: "ょ", romaji: ["lyo"] },
 
     //... 他の濁音・半濁音
 ];
@@ -35,9 +37,7 @@ export const youon = [
     { kana: "じゃ", romaji: ["ja", "zya"] }, { kana: "じゅ", romaji: ["ju", "zyu"] }, { kana: "じょ", romaji: ["jo", "zyo"] },
     { kana: "びゃ", romaji: ["bya"] }, { kana: "びゅ", romaji: ["byu"] }, { kana: "びょ", romaji: ["byo"] },
     { kana: "ぴゃ", romaji: ["pya"] }, { kana: "ぴゅ", romaji: ["pyu"] }, { kana: "ぴょ", romaji: ["pyo"] },
-    { kana: "ぁ", romaji: ["la"] }, { kana: "ぃ", romaji: ["li"] }, { kana: "ぅ", romaji: ["lu"] }, { kana: "ぇ", romaji: ["le"] }, { kana: "ぉ", romaji: ["lo"] },
-    { kana: "ゃ", romaji: ["lya"] }, { kana: "ゅ", romaji: ["lyu"] }, { kana: "ょ", romaji: ["lyo"] },
-    { kana: "っ", romaji: ["ltu", "ltsu"] },
+
     //... 他の拗音
 ];
 

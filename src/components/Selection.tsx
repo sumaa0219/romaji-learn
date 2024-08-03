@@ -21,7 +21,7 @@ const Selection: React.FC = () => {
                 </TableHead>
                 <TableBody>
                     <TableRow>
-                        <TableCell>50音</TableCell>
+                        <TableCell>Step1 50音</TableCell>
                         <TableCell>
                             <Button variant="contained" onClick={() => handleSelect('/gojuon', false)}>順番</Button>
                         </TableCell>
@@ -30,7 +30,7 @@ const Selection: React.FC = () => {
                         </TableCell>
                     </TableRow>
                     <TableRow>
-                        <TableCell>濁音・半濁音</TableCell>
+                        <TableCell>Step2 濁音・半濁音・小文字</TableCell>
                         <TableCell>
                             <Button variant="contained" onClick={() => handleSelect('/dakuon', false)}>順番</Button>
                         </TableCell>
@@ -39,7 +39,7 @@ const Selection: React.FC = () => {
                         </TableCell>
                     </TableRow>
                     <TableRow>
-                        <TableCell>拗音</TableCell>
+                        <TableCell>Step3 拗音</TableCell>
                         <TableCell>
                             <Button variant="contained" onClick={() => handleSelect('/youon', false)}>順番</Button>
                         </TableCell>
